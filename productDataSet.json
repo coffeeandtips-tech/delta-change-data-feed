@@ -1,0 +1,6 @@
+{"id":1, "nome":"arroz", "preco":12.0, "qtde": 50, "purchase_date": "2022-12-02"}
+{"id":2, "nome":"feijao", "preco":7.50, "qtde": 30, "purchase_date": "2022-12-02"}
+{"id":3, "nome":"coca-cola", "preco":5.50, "qtde": 150, "purchase_date": "2022-12-02"}
+{"id":4, "nome":"suco", "preco":3.80, "qtde": 250, "purchase_date": "2022-12-02"}
+{"id":5, "nome":"milho", "preco":1.50, "qtde": 33, "purchase_date": "2022-12-02"}
+{"id":6, "nome":"yogurte", "preco":6.0, "qtde": 15, "purchase_date": "2022-12-02"}
